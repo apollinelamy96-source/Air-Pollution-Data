@@ -62,4 +62,4 @@ All code in this repository is available under the [MIT License](https://opensou
 
 ## Feedback / Questions?
 
-Contact YOUR NAME HERE at [your.name@email.com](mailto:apolline.lamy@gmail.com).
+Contact Apolline Lamy at [apolline.lamy@gmail.com](mailto:apolline.lamy@gmail.com).
